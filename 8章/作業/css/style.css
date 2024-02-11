@@ -28,4 +28,25 @@ main h2 {
     padding: 80px 20px 0;
 }
 
+header .innerWrap {
+  height: 720px;
+  position: relative;
+}
+
+header h1 {
+  padding-top: 120px;
+}
+
+header .scroll {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 16px;
+}
+
+header .scroll img {
+  margin-top: 8px;
+}
 
